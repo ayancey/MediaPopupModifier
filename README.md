@@ -16,5 +16,5 @@ I found the window with WinSpy++, hoping that the volume control and media contr
 * Change popup duration
 * Option for removing the entire popup
 
-# Downloads
-Click on the Releases button above, and pick the newest option.
+# Download
+Click on the Releases button above, and select the newest option.
