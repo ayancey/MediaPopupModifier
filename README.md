@@ -16,3 +16,4 @@ At some point, Spotify started using some API to pop up media controls along wit
 * A nice GUI with options for minimize to tray
 * Change popup duration
 * Option for removing the entire popup
+* Only block when invoked via the play/pause button
