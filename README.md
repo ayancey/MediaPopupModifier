@@ -6,7 +6,7 @@ At some point, Spotify started using some API to pop up media controls along wit
 **MediaPopupModifier**. Version 1.0 hides the media controls by setting the width of the window using low level Windows APIs.
 
 # Download/How to Use
-Click the releases button near the top, and download the newest release. Simply double click to launch, and it will run silently in the background. If you use it continually, simply add it to your startup folder!
+[Click here](https://github.com/ayancey/MediaPopupModifier/releases) and download the newest release. Simply double click to launch, and it will run silently in the background. If you use it continually, add it to your startup folder.
 
 # TODO
 * A nice GUI with options for minimize to tray
